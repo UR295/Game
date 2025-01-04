@@ -19,7 +19,7 @@ This is a simple **Rock-Paper-Scissors** game built using [Streamlit](https://st
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-streamlit.git
+   git clone https://github.com/UR295/rock-paper-scissors-streamlit.git
    cd rock-paper-scissors-streamlit
    ```
 
