@@ -36,6 +36,9 @@ This is a simple **Rock-Paper-Scissors** game built using [Streamlit](https://st
 
 4. **Play the Game**
    I will be adding the link for the game soon..
+   '''bash
+    https://myrt53bzdik4bzxnmjstju.streamlit.app/
+   '''
 
 ---
 
