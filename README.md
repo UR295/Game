@@ -16,9 +16,8 @@ This is a simple **Rock-Paper-Scissors** game built using [Streamlit](https://st
 ---
 
 ## How to Run 🚀
-
 1. **Clone the Repository**
-   ```bash
+   ```bash 
    git clone https://github.com/UR295/Game.git
    cd rock-paper-scissors-streamlit
    ```
@@ -35,10 +34,10 @@ This is a simple **Rock-Paper-Scissors** game built using [Streamlit](https://st
    ```
 
 4. **Play the Game**
-   I will be adding the link for the game soon..
-   '''bash
+   Link for the game:
+   ```bash
     https://myrt53bzdik4bzxnmjstju.streamlit.app/
-   '''
+   ```
 
 ---
 
